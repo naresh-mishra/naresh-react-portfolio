@@ -179,7 +179,14 @@ margin-Right: 10rem;
   justify-Content: center;
   gap: 2.3rem;
 }
-
+.link {
+  color: red; /* Eye-catching */
+  font-weight: bold;
+}
+.link:hover{
+  color: rgb(230, 113, 113); /* Eye-catching */
+  font-weight: bold;
+}
 @media(max-width:1228px){
   .project-container{ 
     display: flex;
