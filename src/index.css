@@ -180,8 +180,9 @@ margin-Right: 10rem;
   gap: 2.3rem;
 }
 .link {
-  color: red; /* Eye-catching */
+  color: rgb(206, 28, 28); /* Eye-catching */
   font-weight: bold;
+  font-size:1rem;
 }
 .link:hover{
   color: rgb(230, 113, 113); /* Eye-catching */
